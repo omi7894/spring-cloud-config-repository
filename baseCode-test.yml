@@ -1,24 +1,21 @@
-group1:
-  code1:
-    name: test1
-    use_yn: Y
-    detail1 : 상세1
-    detail2 : 상세2
+H101:
+  group1:
+    code1:
+      name: test1
+      use_yn: Y
+      detail1: 상세1
+      detail2: 상세2
+    code2:
+      name: test2
+      use_yn: Y
+    code3:
+      name: test3
+      use_yn: Y
 
-  code2:
-    name: test2
-    use_yn: Y
-
-  code3:
-    name: test3
-    use_yn: Y
-
-
-group2:
-  code1:
-    name: test1
-    use_yn: N
-
-  code2:
-    name: test2
-    use_yn: Y
+  group2:
+    code1:
+      name: test1
+      use_yn: N
+    code2:
+      name: test2
+      use_yn: Y
