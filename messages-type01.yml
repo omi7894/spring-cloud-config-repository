@@ -1,0 +1,9 @@
+ko:
+  btn_confirm: 확인
+  btn_cancel: 취소
+  msg_loginId : 아이디를 입력해 주세요.
+
+en:
+  btn_confirm: Ok
+  btn_cancel: Cancel
+  msg_loginId: Please input your ID.

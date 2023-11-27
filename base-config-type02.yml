@@ -1,0 +1,15 @@
+key:
+  id01: 123
+  id02: 456
+
+value:
+  id01: test1
+  id02: test2
+
+use_yn:
+  id01: Y
+  id02: N
+
+description:
+  id01: destest
+  id02: destest
