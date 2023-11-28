@@ -19,3 +19,4 @@ H101:
     code2:
       name: test2
       use_yn: Y
+      detail1: 상세1

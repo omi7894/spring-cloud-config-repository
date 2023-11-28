@@ -1,19 +1,17 @@
-company:
-  id01: H101
-  id02: K101
+H101:
+  key:
+    id01: 123
+    id02: 456
 
-key:
-  id01: 123
-  id02: 456
+  value:
+    id01: test1
+    id02: test2
 
-value:
-  id01: test1
-  id02: test2
+  use_yn:
+    id01: Y
+    id02: N
 
-use_yn:
-  id01: Y
-  id02: N
+  description:
+    id01: destest
+    id02: destest
 
-description:
-  id01: destest
-  id02: destest

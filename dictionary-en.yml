@@ -1,0 +1,9 @@
+button:
+  confirm: OK
+  cancel: Cancel
+label:
+  general_a: General Approval Request
+  general_b: Contract Request
+message:
+  loginId: Please input your Id.
+  loginPw: Please input your password.
