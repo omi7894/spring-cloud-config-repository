@@ -1,18 +1,19 @@
-H101:
-  id01:
-    key: 123
-    value: test1
-    use_yn: Y
-    description: testtest
+baseConfig:
+  H101:
+    id01:
+      key: 123
+      value: test1
+      use_yn: Y
+      description: testtest
 
-  id02:
-    key: 456
-    value: test2
-    use_yn: Y
-    description: testtest
+    id02:
+      key: 456
+      value: test2
+      use_yn: Y
+      description: testtest
 
-  id03:
-    key: 789
-    value: test3
-    use_yn: Y
-    description: testtest
+    id03:
+      key: 789
+      value: test3
+      use_yn: Y
+      description: testtest
